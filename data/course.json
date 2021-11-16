@@ -1,0 +1,34 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Materials Science and Engineering"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Thermodynamics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "71e50b7d-b79e-75aa-47bb-7270a9f94907",
+      "0ee406b5-7ab5-e34b-16cb-8f385055b514"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Materials at Equilibrium (SMA 5111)",
+  "course_description": "Material covered in this course includes the following topics:\n\n*   Laws of thermodynamics: general formulation and applications to mechanical, electromagnetic and electrochemical systems, solutions, and phase diagrams\n*   Computation of phase diagrams\n*   Statistical thermodynamics and relation between microscopic and macroscopic properties, including ensembles, gases, crystal lattices, phase transitions\n*   Applications to phase stability and properties of mixtures\n*   Computational modeling\n*   Interfaces\n\nThis course was also taught as part of the [Singapore-MIT Alliance](http://web.mit.edu/sma/) (SMA) programme as course number SMA 5111 (Materials at Equilibrium).\n",
+  "department_numbers": [
+    "3"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "3.20",
+  "learning_resource_types": [
+    "Course Introduction",
+    "Problem Sets with Solutions",
+    "Exams with Solutions"
+  ],
+  "title": "Course Metadata"
+}
